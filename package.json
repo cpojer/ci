@@ -56,13 +56,13 @@
     "zod": "^4.4.3"
   },
   "devDependencies": {
-    "@cloudflare/oxlint-config": "0.1.0",
+    "@cloudflare/oxlint-config": "0.2.0",
     "@cloudflare/workers-types": "^5.20260730.1",
     "@total-typescript/shoehorn": "^0.1.2",
     "@types/node": "^24.12.0",
     "oxfmt": "^0.32.0",
     "oxlint": "1.94.0",
-    "tsrs": "0.25.0-ts7.1.0-beta",
+    "tsrs": "7.1.0-beta.tsrs4",
     "typescript": "6.0.3",
     "vitest": "^4.1.5",
     "wrangler": "4.118.0"
